@@ -4,7 +4,7 @@
  
  Higor Hícaro Aires Rocha de Freitas Melo (higorhicaro@gmail.com)
  
- Michel Jean katsilis<a href="malito:michelkatsilis@gmail.com">michelkatsilis@gmail.com</a>
+ Michel Jean katsilis<a href="malito:michelkatsilis@gmail.com?cc=michelkatsilis@gmail.com">michelkatsilis@gmail.com</a>
 
 ---
 [Documento da Proposta de Pesquisa](https://docs.google.com/document/d/1-eenjt3xEVban3LNtvtwyc-XKl3aK__KvSwekbBHDww/edit?usp=sharing)
