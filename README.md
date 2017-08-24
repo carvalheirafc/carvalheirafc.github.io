@@ -23,3 +23,5 @@
 3. [PORTER, C. Little privacy in the age of big data. The Guardian, 2014](https://www.theguardian.com/technology/2014/jun/20/little-privacy-in-the-age-of-big-data)<sub>(Documento na Web)</sub>
 
 4. [SHAHAR, O. B. Privacy Is The New Money, Thanks To Big Data. Forbes, 2016](https://www.forbes.com/sites/omribenshahar/2016/04/01/privacy-is-the-new-money-thanks-to-big-data/#67981fc73fa2)<sub>(Documento na web)</sub>
+
+5 [Big data, Wikipedia](https://en.wikipedia.org/wiki/Big_data)<sub>(Documento da Web)</sub>
