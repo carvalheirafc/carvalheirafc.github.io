@@ -1,19 +1,17 @@
-# Instituto Metrópole Digital (IMD) 
-# Universidade Federal do Rio Grande do Norte (UFRN)  
+## Alunos:
  Carlos Frederico Carvalheira Mello <carvalheirafc@gmail.com>
  
  Higor Hícaro Aires Rocha de Freitas Melo <higorhicaro@gmail.com>
  
  Michel Jean katsilis <michelkatsilis@gmail.com>
 
----
-[Documento da Proposta de Pesquisa](https://docs.google.com/document/d/1-eenjt3xEVban3LNtvtwyc-XKl3aK__KvSwekbBHDww/edit?usp=sharing)
+
+> [Documento da Proposta de Pesquisa](https://docs.google.com/document/d/1-eenjt3xEVban3LNtvtwyc-XKl3aK__KvSwekbBHDww/edit?usp=sharing)
 
 
----
 ## Abaixo, alguns dos materiais usados na pesquisa inicial sobre Big Data.
 
----
+
 
 
 1. [MCAFEE, A.; BRYNJOLFSSON, E. Big data: the management revolution. Harvard Business Review, 2012](http://tarjomefa.com/wp-content/uploads/2017/04/6539-English-TarjomeFa-1.pdf)<sub>(Documento em PDF)</sub>
