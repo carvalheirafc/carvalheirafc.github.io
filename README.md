@@ -25,3 +25,9 @@
 4. [SHAHAR, O. B. Privacy Is The New Money, Thanks To Big Data. Forbes, 2016](https://www.forbes.com/sites/omribenshahar/2016/04/01/privacy-is-the-new-money-thanks-to-big-data/#67981fc73fa2)<sub>(Documento na web)</sub>
 
 5. [Big data, Wikipedia](https://en.wikipedia.org/wiki/Big_data)<sub>(Documento da Web)</sub>
+
+## Some other texts and webpages.
+
+1. [Big data will have a big impact on society](https://datafloq.com/read/big-data-will-have-a-big-impact-on-society/212)<sub>(Documento da web)</sub>
+
+2. [MOORE, T. The impacts of Big Data on Society. Western Oregon University](http://www.wou.edu/~tmoore08/Portfolio%20Essay%203.pdf)<sub>(Documento em PDF)</sub>
