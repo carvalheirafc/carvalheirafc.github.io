@@ -3,6 +3,8 @@
 > [Documentação do GDB](https://www.gnu.org/software/gdb/)
 
 
+
+
 > Setando as opções para compilação
 
 **-g:** Para poder habilitar a opção de depuração do GDB.
