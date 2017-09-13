@@ -4,6 +4,7 @@
 
 
 > Setando as opções para compilação
+
 **-g:** Para poder habilitar a opção de depuração do GDB.
 
 **-O#:** Para modificar o quão otimizado o g++ vai deixar o seu código. 0 Nenhuma otimização. 3 Otimização Máxima. 
