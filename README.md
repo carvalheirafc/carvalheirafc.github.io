@@ -1,3 +1,3 @@
-# How To GDB
+# GDB --help
 ## Don't Panic !
 > [Documentação do GDB](https://www.gnu.org/software/gdb/)
