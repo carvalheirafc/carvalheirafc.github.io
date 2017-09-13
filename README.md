@@ -3,4 +3,6 @@
 > [Documentação do GDB](https://www.gnu.org/software/gdb/)
 
 
-![image test](https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/test.png)
+!(https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/flag.png)
+!(https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/executing.png)
+!(https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/quit.png)
