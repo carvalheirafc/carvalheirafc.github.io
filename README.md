@@ -5,22 +5,15 @@
 _______________________
 > Quick Guide
 
-help or h | ativa a ajuda do gdb
-
-run or r | executa o programa do início
-quit | q: sai do gdb
-
-* kill || k : interrompe a execução do programa
-
-* list linha || l linha : lista partes do código fonte
-
-* show listsize & set listsize N : mostra & configura a qtde de linhas mostradas no comando list
-
-* break linha || b linha : adiciona um ponto de parada na linha especificada do arquivo principal
-
-* break funcaoX || b funcaoX : adiciona um ponto de parada no inicio da funcaoX do arquivo corrente
-
-* break arq.cpp:linha || b arq.cpp:linha : adiciona um ponto de parada na linha especificada do arquivo
+help or h                              | ativa a ajuda do gdb
+run or r                               | executa o programa do início
+quit or q                              | sai do gdb
+kill or k                              | interrompe a execução do programa
+list linha or l linha                  | lista partes do código fonte
+show listsize & set listsize N         | mostra & configura a qtde de linhas mostradas no comando list
+break linha or b linha                 | adiciona um ponto de parada na linha especificada do arquivo principal
+break funcaoX or b funcaoX             | adiciona um ponto de parada no inicio da funcaoX do arquivo corrente
+break arq.cpp:linha or b arq.cpp:linha | adiciona um ponto de parada na linha especificada do arquivo
 fonte de nome arq.cpp
 
 * info break || i b : lista informações sobre os pontos de parada definidos
