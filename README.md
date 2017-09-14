@@ -7,7 +7,7 @@ _______________________
 
 * help or h || ativa a ajuda do gdb
 
-* run || r: executa o programa do início
+* run or r | executa o programa do início
 
 * quit || q: sai do gdb
 
