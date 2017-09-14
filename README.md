@@ -3,17 +3,17 @@
 > [Documentação do GDB](https://www.gnu.org/software/gdb/)
 
 _______________________
-> Quick Guide
+## Quick Guide
 
 > help or h : ativa a ajuda do gdb
 
-run or r                               | executa o programa do início
+> run or r : executa o programa do início
 
-quit or q                              | sai do gdb
+> quit or q : sai do gdb
 
-kill or k                              | interrompe a execução do programa
+> kill or k : interrompe a execução do programa
 
-list linha or l linha                  | lista partes do código fonte
+> list linha or l linha : lista partes do código fonte
 
 show listsize & set listsize N         | mostra & configura a qtde de linhas mostradas no comando list
 
