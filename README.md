@@ -15,24 +15,24 @@ _______________________
 
 > list linha or l linha : lista partes do código fonte
 
-show listsize & set listsize N         | mostra & configura a qtde de linhas mostradas no comando list
+> show listsize & set listsize N : mostra & configura a qtde de linhas mostradas no comando list
 
-break linha or b linha                 | adiciona um ponto de parada na linha especificada do arquivo principal
+break linha or b linha : adiciona um ponto de parada na linha especificada do arquivo principal
 
-break funcaoX or b funcaoX             | adiciona um ponto de parada no inicio da funcaoX do arquivo corrente
+break funcaoX or b funcaoX : adiciona um ponto de parada no inicio da funcaoX do arquivo corrente
 
-break arq.cpp:linha or b arq.cpp:linha | adiciona um ponto de parada na linha especificada do arquivo
+break arq.cpp:linha or b arq.cpp:linha : adiciona um ponto de parada na linha especificada do arquivo
 fonte de nome arq.cpp
 
-* info break || i b : lista informações sobre os pontos de parada definidos
+* info break or i b : lista informações sobre os pontos de parada definidos
 
-* delete N || d N : remove o ponto de parada N (visualize o valor de N com o comando info break) – o
+* delete N or d N : remove o ponto de parada N (visualize o valor de N com o comando info break) – o
 comando delete sem a indicação do ponto de parada permite remover todos os pontos de parada de
 uma só vez
 
-* disable N : não remove, mas desativa o ponto de parada N
+* disable N or não remove, mas desativa o ponto de parada N
 
-* enable N : reativa o ponto de parada N
+* enable N or reativa o ponto de parada N
 
 ______________________________
 > Setando as opções para compilação
