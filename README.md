@@ -5,11 +5,10 @@
 _______________________
 > Quick Guide
 
-* help or h || ativa a ajuda do gdb
+help or h | ativa a ajuda do gdb
 
-* run or r | executa o programa do início
-
-* quit || q: sai do gdb
+run or r | executa o programa do início
+quit | q: sai do gdb
 
 * kill || k : interrompe a execução do programa
 
