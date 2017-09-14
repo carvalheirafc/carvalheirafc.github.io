@@ -47,7 +47,7 @@ uma só vez
 
 
 
-# Executando o Programa.
+## Executando o Programa.
 
 > gdb ./$PROG : Para poder executar o programa em função do executável criado com as flags de depuração.
 
@@ -56,7 +56,7 @@ uma só vez
 
 
 
-# Caso não saiba o que fazer ainda.
+## Caso não saiba o que fazer ainda.
 
 > quit ou q : Faz com que o programa termine e conclua a execução do GDB.
 
