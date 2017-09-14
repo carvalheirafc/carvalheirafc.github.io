@@ -5,7 +5,7 @@
 _______________________
 > Quick Guide
 
-help or h                              | ativa a ajuda do gdb
+> help or h : ativa a ajuda do gdb
 
 run or r                               | executa o programa do início
 
