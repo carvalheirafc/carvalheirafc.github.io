@@ -69,5 +69,5 @@ uma só vez
 
 ![run](https://github.com/carvalheirafc/carvalheirafc.github.io/blob/master/screen-shots/exit_normaly.png)  
 
-![exited normaly](https://github.com/carvalheirafc/carvalheirafc.github.io/blob/master/screen-shots/exit_normaly.png)
+
 
