@@ -70,7 +70,7 @@ uma só vez
 ![run](https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/run.png)  
 ![Exit Normaly](https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/exit_normal.png)
 
-## Executando com BrakPoints
+## Executando com BreakPoints
 > Uma das melhores funções do GDB, é poder monitorar a execução do programa, sem que o código fonte seja alterado, por meio de contadores ou uso de alguma saida para o terminal, como **printf** ou **std::cout**.
 
 > Para isso pode-se adicionar brakpoints. Para isso, basta digitar **breakpoints** e o nome da função.<sub>(Pode se ao digitar o nome da mesma, usar o **tab** para completar o nome da função)</sub>
