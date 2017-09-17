@@ -86,3 +86,9 @@ uma só vez
 > E para saber o quanto vale alguma variável, basta digitar **print** mais o nome da variavel.
 
 ![print](https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/print_i%20.png)
+
+> Ao final caso não tenha nenhum tipo de problemas o o GDB irá usar a funcão exited normaly.
+
+> Fica agora a cargo de quando estiver com problemas em alguma execução do programa, colocar o breakpoint onde se acha que ocorre o problema e verificar o comportamento do mesmo.
+
+> Pode-se também por fim executar o valgrind **valgrind ./prog**. Em alguns casos chega ser até mais facil a verificação de alguns erros pelo valgrind.
