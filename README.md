@@ -62,7 +62,7 @@ uma só vez
 
 ![quit](https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/quit.png)
 
-## Executando Normalmente o programa.
+## Executando normalmente o programa.
 
 > Neste exemplo estou usando um código que sei que não há nenhum tipo de erros ou problemas, tanto na compilação quanto na execução.
 > Digitando **run** no prompt do GDB vai fazer o programa ser executado todo de uma unica vez, e como o mesmo não tem nenhum ponto de parada, será executado até o fim.
