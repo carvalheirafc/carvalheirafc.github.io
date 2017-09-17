@@ -67,7 +67,7 @@ uma só vez
 > Neste exemplo estou usando um código que sei que não há nenhum tipo de erros ou problemas, tanto na compilação quanto na execução.
 > Digitando **run** no prompt do GDB vai fazer o programa ser executado todo de uma unica vez, e como o mesmo não tem nenhum ponto de parada, será executado até o fim.
 
-![run](https://github.com/carvalheirafc/carvalheirafc.github.io/blob/master/screen-shots/exit_normaly.png)  
+![run](https://github.com/carvalheirafc/carvalheirafc.github.io/blob/master/screen-shots/run.png)  
 
 
 
