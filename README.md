@@ -61,3 +61,13 @@ uma só vez
 > quit ou q : Faz com que o programa termine e conclua a execução do GDB.
 
 ![quit](https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/quit.png)
+
+## Executando Normalmente o programa.
+
+> Neste exemplo estou usando um código que sei que não há nenhum tipo de erros ou problemas, tanto na compilação quanto na execução.
+> Digitando **run** no prompt do GDB vai fazer o programa ser executado todo de uma unica vez, e como o mesmo não tem nenhum ponto de parada, será executado até o fim.
+
+![run](https://github.com/carvalheirafc/carvalheirafc.github.io/blob/master/screen-shots/exit_normaly.png)  
+
+![exited normaly](https://github.com/carvalheirafc/carvalheirafc.github.io/blob/master/screen-shots/exit_normaly.png)
+
