@@ -77,5 +77,5 @@ uma só vez
 
 > Ao finalizar de colocar os breakpoints no GDB, execute o programa normalmente com o comando **run**
 
-[break Points](https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/b_main.png) 
+![break Points](https://raw.githubusercontent.com/carvalheirafc/carvalheirafc.github.io/master/screen-shots/b_main.png) 
 
