@@ -73,7 +73,7 @@ uma só vez
 ## Executando com BreakPoints
 > Uma das melhores funções do GDB, é poder monitorar a execução do programa, sem que o código fonte seja alterado, por meio de contadores ou uso de alguma saida para o terminal, como **printf** ou **std::cout**.
 
-> Para isso pode-se adicionar brakpoints. Para isso, basta digitar **breakpoints** e o nome da função.<sub>(Pode se ao digitar o nome da mesma, usar o **tab** para completar o nome da função)</sub>
+> Para isso pode-se adicionar brakpoints. Para isso, basta digitar **break** e o nome da função.<sub>(Pode se ao digitar o nome da mesma, usar o **tab** para completar o nome da função)</sub>
 
 > Ao finalizar de colocar os breakpoints no GDB, execute o programa normalmente com o comando **run**
 
